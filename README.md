@@ -1,0 +1,2 @@
+# lexicon
+Initial project documentation
